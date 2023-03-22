@@ -1,0 +1,41 @@
+[{
+    "id":1,
+    "name":"Aysha",
+    "power":80
+},
+{
+    "id":2,
+    "name":"Sienna ",
+    "power":73
+},
+{
+    "id":3,
+    "name":"Lord",
+    "power":100
+},
+{
+    "id":4,
+    "name":"Priya",
+    "power":98
+},
+{
+    "id":5,
+    "name":"Blaze",
+    "power":55
+},
+{
+    "id":6,
+    "name":"Blaise",
+    "power":45
+},
+{
+    "id":7,
+    "name":"Yaztromo",
+    "power":78
+},
+{
+    "id":8,
+    "name":"Quenn",
+    "power":65
+}
+]
